@@ -1,0 +1,10 @@
+[build-system]
+requires = [
+    "numpy",
+    "pandas",
+    "itertools",
+    "csv",
+    "pubchempy",
+    "cirpy"
+]
+build-backend = "setuptools.build_meta"
