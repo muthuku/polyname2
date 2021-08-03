@@ -1,0 +1,6 @@
+numpy
+pandas
+itertools
+csv
+pubchempy
+cirpy
